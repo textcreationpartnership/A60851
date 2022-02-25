@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some breathings of life, from a naked heart presented in love to the honest, vpright, and single-hearted, that they, with me may wait to feel the imediate drawings, and leadings of the Holy Spirit in all things ... so that they need not any man to teach them, 1 Joh. 2. 27., with an epistle for peace and unity.</title>
+            <author>Salt, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60851</idno>
+            <idno type="STC">Wing S460</idno>
+            <idno type="STC">ESTC R17566</idno>
+            <idno type="EEBO-CITATION">12166136</idno>
+            <idno type="OCLC">ocm 12166136</idno>
+            <idno type="VID">55324</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60851)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55324)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 821:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some breathings of life, from a naked heart presented in love to the honest, vpright, and single-hearted, that they, with me may wait to feel the imediate drawings, and leadings of the Holy Spirit in all things ... so that they need not any man to teach them, 1 Joh. 2. 27., with an epistle for peace and unity.</title>
+                  <author>Salt, William.</author>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>18, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to William Salt. cf. NUC pre-1956.</note>
+                  <note>Signed on p. 10: William Salt.</note>
+                  <note>Poem by George Fox: [1] p.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Epistles of John, 1st, II, 27.</term>
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55324:1"/>
+            <pb facs="tcp:55324:1" rendition="simple:additions"/>
+            <p>SOME BREATHINGS OF LIFE, From a Naked Heart. Preſented in Love to the Honeſt, Vpright, and Single-Hearted, That they, with me may wait to feel the imediate Drawings, and Leadings of the Ho<g ref="char:EOLhyphen"/>ly Spirit in all things; Or come to know that State which the Apoſtle ſpeaks of, to have the <hi>Anointing</hi> to teach them all things, or of all things that cometh from Chriſt, Gods Anointed; <hi>So that they need not any man to Teach them,</hi> 1 Joh. 2.27. With an Epiſtle for Peace and Unity.</p>
+            <p>Thus hath it been ſaid by a Servant of the Lord. <hi>If Thy Preſence go not with us, carry us not from hence.</hi> And another blamed ſome for that <hi>They had need to be Taught the firſt Principles of the Oracles of God. Not by Might, nor by Power, but by my Spirit ſaith the Lord of Hoſts. Who art thou O Great Mountain, before</hi> Ze<g ref="char:EOLhyphen"/>rubbabel <hi>Thou ſhalt become a Plain, and he ſhall bring forth the Head Stone thereof, with Shoutings, Crying Grace, Grace unto it.</hi>
+            </p>
+            <p>Printed in the Year, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:55324:2"/>
+            <pb n="3" facs="tcp:55324:2" rendition="simple:additions"/>
+            <head>Some Breathings of Life, from a Naked Heart.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>NOt to run with the <hi>Stream,</hi> nor Strive againſt the <hi>Flood</hi> which caſts up its Mire and Dirt (which is the ſame with that in <hi>France, Italy, Spain,</hi> &amp;c.) for it is the Nature of the Sea to caſt up its <hi>Mire</hi> and <hi>Dirt;</hi> therefore to ſtand ſtill in the <hi>Arke,</hi> to abide ſtill in the <hi>Secret</hi> of the Almighty, and ſo to keep out of its reach, not to ſtrive againſt it, leaſt it caſt upon thee its <hi>Mire</hi> and <hi>Dirt;</hi> neither to run with the Stream, for it runs into the <hi>Sea</hi> that is Bottomleſſe. So ſtrive not, ſtir not, nor provoke, but <hi>ſtand ſtill,</hi> and the Lord will dry it up. Which ſhall not hinder the Churches coming out of the Wilderneſſe, though the <hi>Dragon</hi> may caſt out his Floods, but come over every green thing, yea thoſe Pro<g ref="char:EOLhyphen"/>feſſors that have talked of <hi>Noah</hi>'s Flood returning, and abide not in the Ark, will run with it. And many Floods ſhall paſſe over the Righteous Soul whom the Lord will Deliver, and will be as a Win<g ref="char:EOLhyphen"/>ter-ſtorm; So that its like the Floods may riſe, and ſwell, and may prevail for a while, but who are in the <hi>Arke</hi> will ride upon the <hi>Floods;</hi> So that there is no going out, but to ſtand ſtill, till it be abated. And there hath been a time of bringing all Home, of bringing them to their own, and there may be a time of keeping at Home. And ſo every one to ſit down under his own <hi>Vine,</hi> and quietly to enjoy the Fruits of his Labours, for it hath been the Lords Work to bring us hither. And he that hath laboured, will now come to eat. So let <hi>Iſrael</hi> abide in their Tents, and not in any thing outwardly <hi>to put forth,</hi> but as ſeeing the thing <hi>inwardly</hi> in their own Life, and according to the moveings and leadings of the Spirit of the Lord, for therein is ſafety, that their own life may be their head in every thing.</p>
+                  <p>And the Lord bid <hi>Noah</hi> go forth of the Arke before he went forth, after that the Flood was abated. So that as he Commanded him in, ſo he Commanded him forth again, and he was held in Subjection.</p>
+                  <p>So that the mans part being kept down, any thing may be done at the Commandment of the Lord where the Creature is held in Sub<g ref="char:EOLhyphen"/>jection.</p>
+                  <p>If I find movings from the Spirit of the Lord, to put off any Gar<g ref="char:EOLhyphen"/>ment, or the whole, and ſee the end thereof, I may do it, other<g ref="char:EOLhyphen"/>wiſe
+<pb n="4" facs="tcp:55324:3" rendition="simple:additions"/>it would be wiſdom to let it alone in its place.</p>
+                  <p>And if it be to go to any man, or place, I may do it as I find draw<g ref="char:EOLhyphen"/>ings, and there it would be ſafeſt to find leadings to it, and the haſty thing kept down, and the Creature kept to the lowly, humble ſelf<g ref="char:EOLhyphen"/>abaſing Spirit.</p>
+                  <p>And though I have an high eſteem as to Meetings, yet I am not to do the thing in my own will or time, nor any other, leaſt it be ſaid who required this at your hands. So that there is no other courſe to come into, but that which the Spirit of the Lord leads into daily; And not to uphold any thing becauſe it hath been done, no farther then the Spirit of the Lord moves, or leads thereunto at the preſent, <hi>Newly,</hi> for I am to ſerve God in <hi>Newneſſe of Spirit;</hi> and ſo is the Creature kept in a daily Subjection to the Spirit in every thing.</p>
+                  <p>And ſo as ſometimes I have ſaid, <hi>Let Life lead in all things,</hi> and as that leads, ſo to follow (or elſe to be ſtill) if it be from Houſe to Houſe, ſo that I am to Act from the Life. For the Worſhip of God is a weighty thing, therefore am I to do it rightly, and truely, in the ſincerity of my heart, and not lightly, as a Coſtome, Tradition or formal thing, but in the ſtrength of my Life. And this is not to bring things out of courſe, or leave things at uncertainties, to do it in the moveings and leadings of the Spirit of the Lord daily and hourly in every thing, for who are from the feeling of that, and the leading of that run at un<g ref="char:EOLhyphen"/>certainties.</p>
+                  <p>Therefore if I go to a Meeting, I go in the moveings, or in the fear and dread of the Lord upon my Spirit, in expectation of ſome thing that from the Lord hath been ſtirring thereunto (that both may be done in the Spirit wherein is the unity,) or elſe it would not be right in him or them that hath appointed it; and it would turn to <hi>Iſraels</hi> reproach not to have the Lord going before us in every Meeting, or thing done, to wait for his Motion or appearance, as towards that Thing or Service, or elſe not to put forth in it. And as was ſaid by one, <hi>We are ready to hear all things that are Commanded thee of God,</hi> ſo ſay I. And it hath been upon my heart for the Preſervation of the ſimple in this day, and the avoiding Cuſtomarineſs, and Formality in any Service of God. <hi>Go not forth but ſtand ſtill, neither ſtir up the Souls Beloved untill he pleaſe,</hi> nor force the thing, but let it alone, un<g ref="char:EOLhyphen"/>till he gently leads; that People might not looſe their Expectation coming to find ſome appearance of the Lord, and find careleſneſle in Meetings, Cuſtomarineſſe, Formality, Deadneſſe and Drowſineſſe, can they ſay this to be of the Lord, or according to the appointment of his Spirit?</p>
+                  <pb n="5" facs="tcp:55324:3" rendition="simple:additions"/>
+                  <p>Some have been blamed for that they were grown ſo formal, as to know before hand when to begin, and when to end their matter.</p>
+                  <p>O that the dread of God may be upon all hearts in this day, that nothing may be given forth or attempted, but what he appears in firſt (for Chriſts Sheep hear his voice, and they follow him.) And the hungry would be willing to wait for his appearance, and many would be diſappointed of their wicked intents and purpoſes, as not know<g ref="char:EOLhyphen"/>ing the time, which the Seed of God raiſed up by the power of God fees all time in the Fathers hand or diſpoſe; And ſo would Friends in their Service be preſerved, ſerving in the Spirit, and walking in the Spirit, or elſe be ſtill. Did <hi>Iſrael</hi> truſt upon God, and reſt wholly upon him, they would find him their reſt. And good it is to be found faithfull in what they are called of God; And ſo in their Callings to abide with God, and then is man in his place, one day as well as an<g ref="char:EOLhyphen"/>other; for there hath been a time of ſhewing theſe things unto many, and there may be a time of practizing the ſame, what they have ſeen and that from the Lord concerning their coming out of obſervation of dayes; and though they cannot act therein ſo inoffenſively as they would in reſpect of them without, yet to do it as inoffenſively as they can. <hi>Now who have believed do enter into reſt; and he that is entred into his reſt he alſo hath ceaſed from his own works, as God did from his: And ſuch a one his Servant ſhall reſt as well as him, and his Cattel likewiſe, for a good man is merciful to his Beaſt.</hi> And if any more publiquely hath a teſtimony to bear againſt their day, and that from the Lord, let none be offended, but all <hi>Iſrael</hi> keep in, keep coole and quiet; And that is the way to keep ſafe, and not to ſtrive to go forth that day more then another; If that there was formerly Collection for the Saints on the firſt day of the week, muſt there needs be meetings on that day, whe<g ref="char:EOLhyphen"/>ther the Spirit of the Lord move or not? For as to time I know it, from the Lord, that there is none more holy then other. For the Seed of God being come up, ſees over time, and beyond, and as it is kept in the Dominion over things in time, and keeps open and ſingle un<g ref="char:EOLhyphen"/>to God, which is the bleſſed Seed, or that in which the bleſſing is, and ſeeth all time in the Fathers hand. For feaſt-days, holy-dayes, or Sabbath-days, what were they more then Shadows of good things to come? but the Body is Chriſt, whoſe day is holy, and his reſt is Everlaſting. For all Shaddows were to terminate in ſomething, be they what they would, Chriſt the end of all things in whom all Types, Figures and Shadows end, the reſtorer of the Creation, the Reſt that God hath prepared for his People, in whoſe Arm of Power
+<pb n="6" facs="tcp:55324:4" rendition="simple:additions"/>the weary Soul finds reſt. And the reſting in any outward Obſerva<g ref="char:EOLhyphen"/>tion or Thing could not give reſt to the Soul; therefore was there a neceſſity of bringing in that which was more perfect, the better hope by which we draw nigh unto God; And when that which is perfect is come, then that which is imperfect comes to be done away.</p>
+                  <p>So each thing was to be done as under the Covenant in which it was, and according to its appointment; but the firſt gave place unto the ſecond, and was changed, then there muſt be alſo a change of the reſt; For the Prieſt-hood being changed, there muſt be alſo a change of the things that were done under it; A change of their offerings, which Chriſt the one Offering ends, and the end of their Law by which they took their Tithes.</p>
+                  <p>
+                     <hi>Chriſt within, the hope of Glory,</hi> the Myſtery hid, but now revealed, praiſes be to his Name who liveth for ever, who is the Souls Biſhop, who watcheth over, and taketh the Care of his Flock; for had his Compaſſions failed, we had not been a People, whoſe Love hath o<g ref="char:EOLhyphen"/>vercome my heart, therefore have I a Zeal for him, and for his Peo<g ref="char:EOLhyphen"/>ple. And it is his bleſſed appearance that is to be waited for, that bleſſeth you, the Glory of the Lord to fill his own Temple, which appearance many have waited for. For of old they were to go up by appointment, and do things in its Order. And we are now to re<g ref="char:EOLhyphen"/>ceive an appointment before we do, and to do things as under that Covenant in which we are, not according to the Letter of a diſpen<g ref="char:EOLhyphen"/>ſation, as they that were ordered according to the Law of the Carnal Commandment, which was to come to its end, but in newneſſe of Spirit to receive the Commandment new, and in all things to be or<g ref="char:EOLhyphen"/>dered according to the power of the endleſſe Life.</p>
+                  <p>For it is the New Teſtament to which we are come, where are new and freſh diſcoveries, and leadings according to his will that we are Children of; He made known his Will unto the Children of the firſt Covenant, which they were to obey and do, and he maketh knows his mind by putting his Law into our minds, that we might ſerve and obey him likewiſe, not as they did in the oldneſſe of the Letter, but in newneſs of the Spirit. And this is that which we are to keep on in the New and Living way, that leadeth unto the Living God, where<g ref="char:EOLhyphen"/>in is found the Daily Bread; for that which I Received Yeſterday, will not ſerve me to day, nor that which I have to day will not ſerve me to morrow, but I muſt have it freſh and new, and then it is good. So that this I find according to the mind of the Spirit of God in me to be the time under which we are (as New-Covenant Children) to
+<pb n="7" facs="tcp:55324:4" rendition="simple:additions"/>Act in newneſſe, to walk in newneſſe of life, marke new, for the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ords have an import in the very ſound of the Covenants, the firſt could not continue which was old and ready to vaniſh away, but the ſecond is new and everlaſting, and abides for ever, and is a Covenant of life and peace to all that ſtand in it, or live anſwerable to it.</p>
+                  <p>So that this is according to what <hi>Moſes</hi> Propheſied of Chriſt, <hi>that <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> was to be heard in all things.</hi> And ſaid the Miniſter of Chriſt, <hi>what<g ref="char:EOLhyphen"/>ſever ye do in word or deed do all in the Name of the Lord Jeſus,</hi> or in his power, that the power may ſtir firſt, then in the name of Jeſus which is the Saviour, there is ſafty. And ſo he may be called a ſpirituall man that doth all in the ſpirit, and with it and a good underſtanding, wherein the true worſhippers worſhip the Father in ſpirit &amp; in truth.</p>
+                  <p>And this will be a Dread among People, that they ſee we ſerve God indeed, with Reverence and Godly Fear, not in our own Time nor Will, nor their Will, but when he pleaſeth or ſtirreth, and not till then; And this is that which is acceptable, not Cuſtomary, For<g ref="char:EOLhyphen"/>mally, or by Tradition as others have done, which the Lord hath caſt out before us.</p>
+                  <p>And the Lord knowes I am even ſick with love, therefore beare with me, and overcome with the goodneſſe of the Lord which my ſoule hath felt, and it is the life of love that I breath after to ſee brought forth among us, &amp; to know the depth thereof; gifts may ceaſe, and tongues may ceaſe, but love abideth which is moſt excellent. And this when even tyred and wearied in my mind, the Lord fixed me upon his ſpirit of love which he hath born up in me, which I prayed the Lord and ſupplicated him for, as ſeeing a beauty in it, which the Lord will bring his people to more and more love, generall, univerſal, to live in it, and bring them over all ſtraitneſſe and nar<g ref="char:EOLhyphen"/>rowneſſe, Amen ſaith my ſpirit. Which I hope as the Lord hath brought me to ſee it, ſo he will enable me to abide in it.</p>
+                  <p>And as touching them who have declared among us, and do goe forth, as they ſtand in their places and are ſerviceable to the Lord in the moveing of his ſpirit, to reprove ſin and teach tranſgreſſors the way of God, and keep to their firſt principles, walking in the <hi>light</hi> of the <hi>Lamb,</hi> it is lovely, but not to meddle in what concernes them not, vaileing the <hi>mans part</hi> that the <hi>Lord alone</hi> might have all the <hi>glory.</hi> For thus it was ſaid by them who were in the ſpirit of truth and of love, who is <hi>Paul,</hi> and who is <hi>Apollo,</hi> but ſervants by whom ye have be<g ref="char:EOLhyphen"/>lieved; for neither is he that planteth any thing, nor he that watereth, but God that giveth the increaſe; mark, <hi>not any thing but God:</hi> and this
+<pb n="8" facs="tcp:55324:5" rendition="simple:additions"/>farther ran through me from the ſpirit of the Lord, <hi>neither are they to be as Lords over Gods heritage, but to be Examples to the flock.</hi> And the Apoſtle who was not inferiour to the chiefeſt Apoſtles, yet he ſaid he was nothing; And that the Lord might be all, and his truth all, they were content to abaſe themſelves, and ſuch the Lord will <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. And that whereby I have been preſerved this day hath been onely in the name and power of the Lord, his arme that hath upheld me, but I ſee ſiftings, and winnowings muſt come, and good it will be for many; And as the Lord hath tryed all other profeſſions, ſo he will try this, that they that are approved may be made manifeſt. And this I ſee, Forms will be broken, the cuſtomary Obſervaſion of dayes, and Friends preſerved as the ſpirit of the Lord is harkened unto and obeyed, and goes before in all things. And that which I have come to ſee and feele into this day, and to have my heart fixed, yea that I can ſay my heart is fixed, I can ſing and rejoyce, hath been through the travell of my ſoule, and prayers and ſupplications to the Lord that heares in ſecret, who hath had regard unto my low eſtate (whoſe mercy indureth for ever) and to ſee his people in the ſpirit of love, and the Imediate movings in it, and from it, indeed I ſhould be An<g ref="char:EOLhyphen"/>ſwered; And I hope (it being from my very Soul that I have defi<g ref="char:EOLhyphen"/>red it) that I ſhall ſee it and be ſatisfied. And I know he that dwel<g ref="char:EOLhyphen"/>leth in the Love of God, dwelleth in a ſafe place, for <hi>He that dwelle<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> in Love, dwelleth in God,</hi> where Storms, Tempeſts, nor Puſhings can<g ref="char:EOLhyphen"/>not come, nor hurt; The Creature may be hurt if he go forth, or let his mind forth, but keeping within he is ſafe, the mind out of the Creatures, or any viſible thing up to the inviſible God. And the Lord hath brought me to a State that I ſee over the Viſibles, and where they are in their place, and man ſtanding in his place, and the Crea<g ref="char:EOLhyphen"/>tures uſed in their place in Gods Covenant of Light are very good; So there is a neceſſity of perfecting what is begun, or bringing forth that which many are yet out of, <hi>Even perfect Love that thinks no evil, nor rejoyceth in Iniquity,</hi> wherein we may ſee one another, and ſerve one another, and not be ſmiting without cauſe, not to have the pure Life and Motions of the Spirit of Truth it ſelf, judged by them that are Profeſſors thereof, becauſe it came not forth according to their Mind, Form, Time, or Way, even as others have done, ready to judge all out of their own way; when as it is evident the Lords way is not as mans wayes, and no man is to have Dominion over another faith, but to be helpers of each others joy, if they cannot help, then they are not to hinder; But the Lord will have all to bow and be<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb n="9" facs="tcp:55324:5" rendition="simple:additions"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> him, be they never ſo ſtrong there is need of a continual De<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ance and eying him, even as the Servant of Chriſt of old De<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ld, <hi>without him he could do nothing, but in him he could do all things;</hi> 
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> have been brought to ſee my own weakneſſe, and my own <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>gth, and in that could do nothing, and when I have been weak<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> then have I been ſtrongeſt, and the Lords ſtrength is pretious, And as it hath been ſo it is, <hi>Every mans way hath been right in his own <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, but the Lord pondereth the Steps; And in him was no Form nor <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>lineſſe, nor nothing to be deſired;</hi> Mark, here did not appear Form nor Comlineſſe, <hi>but a man of Sorrows, and acquainted with Griefs;</hi> So who ſtands in the Holy Mountain, will ſee and walk over all theſe Forms, Outward-appearances, and Comlineſs, and know the Kings Daughter that is all glorious <hi>within.</hi>
+                  </p>
+                  <p>And this would not leave any at a loſs or uncertainty, to be guided and led by the Spirit of God in all things, and if guided, then that to go before, or be directed by it, for there is no other way where<g ref="char:EOLhyphen"/>by the Lord will carry on his own work; <hi>Not by Might, nor by Power, but by my Spirit ſaith the Lord;</hi> And the Spirit is not to be tyed or bound unto mans Conveniency, or limited to the narrow compaſs of his occaſions to ſerve him when he hath leaſture, but the Creature is to <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ve way unto him; So that a man going without his guide may ea<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> looſe his way, and that imediately, to ſee or to hear it, other<g ref="char:EOLhyphen"/>wiſe he goes but uncertainly. And where Friends have provided a <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, or others have given up their Houſe as to a Meeting-Place, it may be made uſe of, when they feel ſtirrings in the life, both in reſpect of time and place, as they ſee, or are moved by the Eternal, in which they ſtand over all the Earth, and there will be ſafety, whatſoever may come either to dye or to live, even in and through the Eternal Spirit to offer up themſelves.</p>
+                  <p>And ſuch that are Simple-hearted, and go in ſimplicity of their <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>arts to ſuch Meetings, directed or led into by the Spirit of the Lord, <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> his own Seed-ſake, them the Lord may preſerve, but to do the <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> clearly in the Life, and imediate movings of the Spirit towards <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a thing is ſure and ſafe, &amp; it would be diſobedience if not anſwer<g ref="char:EOLhyphen"/>ed, if required; for it is the Lord that is to be hearked unto, and his <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> obeyed, and the Creature not to go forth into any thing, any <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther then that leadeth, but to be kept in ſubjection; for if you <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to feel the thing in your ſelves, and it be not hearked unto, <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhall go on any in a Formality or Cuſtomarineſſe, out of the ime<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ate Leadings and Guidance of the Spirit of the Lord, <hi>The thing will
+<pb n="10" facs="tcp:55324:6" rendition="simple:additions"/>come over you, and overtake you, and ſome will be burthened thereat, untill they do declare againſt it Publickly.</hi> And ſo walking in the unity of the Spirit, and keeping down the mans part, then unity would be pre<g ref="char:EOLhyphen"/>ſerved and ſtrengthned; for if the Spirit be ſtopt, or quenched, then the unity is quenched, that is plain; And this would put a ſtop quickly to all Cuſtomary and Formal proceedings, all to do, and every one to do as they are moved of the Spirit by the Lord, which is Holy, Juſt and True. And thus I have born forth my Teſtimony, as moved of the Lord, and in Love to you all, wherein let me be Re<g ref="char:EOLhyphen"/>ceived.</p>
+                  <closer>
+                     <signed>William Salt.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And theſe two things feel me in (and therein abide with me.)</p>
+            <p>My heart fixed in the Spirit of Love, wherein I am to keep for ever, And drawn and guided by that Spirit which way he pleaſeth, and I paſſive therein, which will never deceive any of you to abide in Love, and know the Imediate motions of the good Spirit to guide you.</p>
+            <p>Thus it was well with <hi>Iſrael</hi> as they were kept by day and by night to the Conduct of the <hi>Pillar</hi> of <hi>Fire and the Cloud,</hi> and had this in their ſight through all their Journeyings, to be kept in a continual Subjection and Dependance upon God. And at the word of the Lord they travelled, and at the word of the Lord they ſtood ſtill, or abode in their Tents, whether two Dayes, or a Month, or a Year, as the Cloud tarried or remained upon the Tabernacle, the Children of <hi>Iſrael</hi> Remained ſtill, and Journeyed not; So as this is to be Read by each in Particular, ſo it is in the General; At the Command<g ref="char:EOLhyphen"/>ment of the Lord they reſted in their Tents, and at the Command<g ref="char:EOLhyphen"/>ment of the Lord they Journeyed, and roſe up, and ſate down with Holy Breathings in their mouths. <hi>Ariſe O Lord, and let thine Enemies be ſcattered, and return unto the many Thouſands of Iſrael.</hi> And the Ark of the Covenant of the Lord went before them in their Journeyings, holding forth at that time what the Spiritual <hi>Iſrael</hi> were to have, to go before them in ages to come, even him who was given for a Leader and Commander to the People.</p>
+            <p>And what is it can help out of the Apoſtacy, heal any of their Backſlidings, or ſave any from the errours of their way, but th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unerring Spirit of the Lord, to know its Motions and Leadings.</p>
+            <p>And whereas it was ſaid, by one ſpeaking concerning the Raging of the Sea, and caſting up its Mire and Dirt, yet ſaid he, <hi>We muſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:55324:6" rendition="simple:additions"/>through it,</hi> yea but the Lord muſt lead firſt, otherwiſe Creatures may quickly ſink; and where the Lord leads, there any are to follow, but for otherwiſe.</p>
+            <p>And another ſpeaking to this effect, <hi>To heed the Power and Spirit of the Lord which was before Storms and Tempeſts was;</hi> yea ſo to heed it, as to be guided by it; So that this brings ſtill unto the thing that hath been ſpoken of, to feel the Lord preſent, or to ſee the Living going before, if that move not then to be ſtill; So let all Fleſh be ſilent be<g ref="char:EOLhyphen"/>fore the Lord, and all fleſhly reaſonings, for the Lord is riſen of a Truth, whom we are to follow, and let the ſound thereof go forth to the utmoſt ends of the Earth.</p>
+            <p>This then in ſhort, what the tendance of my words hath been, not to appear in any thing, but what the Spirit of the Lord moves unto directly, for had that been ſtill, I had been ſtill in this matter; nei<g ref="char:EOLhyphen"/>ther having regard to one time or place more then another, but Spi<g ref="char:EOLhyphen"/>ritual, all in the Spirit to be performed, or as that makes way, or bows the hearts of any, which is to be waited for: In the mans day, things hath been done in the mans time, and according to his will, but in the day of the Lord, all is to be done in his time, and according to his will, who hath all times in his hand, which the Creature is to eye di<g ref="char:EOLhyphen"/>ligently in this mighty day of the Lord, wherein man is wholly to be ceaſed from for ever.</p>
+            <p>So to viſit one another, any as they are moved, and ſpeak one to mother, and meet together as they are moved; for if two or three ſhall agree on Earth, as touching any thing that they ſhall ask, it ſhall be done for them of my Father which is in Heaven ſaith Chriſt; For where two or three are gathered together in my Name, there am <hi>I in the midſt of them;</hi> And ſo daily to exhort one another as they ſee cauſe, or are led thereunto by the Spirit of the Lord, where there is any Buffettings, Temptations, or things of that kind. And where any more generally ſhall aſſemble themſelves together, and find leadings thereunto in the Spirit of Love let them do it, even as that puts forth it ſelf in the thing, otherwiſe it were better to be ſtill, and not to do it, becauſe it hath been done, and others have exhorted there<g ref="char:EOLhyphen"/>unto, and ſo to be tyed to the Letter of a diſpenſation; for there is a time <hi>for all things, and to every thing there is a Seaſon</hi> ſaith <hi>Solomon;</hi> there may be a time to go forth, and there may be a time to keep ſtill, a time to ſpeak, and a time to be ſilent, or is the ſpirit of the Lord to be limited about any of theſe things, as that he ſhall not have the liberty left him, to require what, or when he pleaſeth?</p>
+            <pb n="12" facs="tcp:55324:7" rendition="simple:additions"/>
+            <p>And may not ſome as contentedly be brought to ſit in ſilence, or to be taught as formerly to be Teachers of others, and may it not be <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Convenient?</p>
+            <p>And did not the Prophet of the Lord Declare their ſtrength was to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>ſtill?</hi> &amp; may there not be a time for ſitting ſtill now as well as then? and is not the Creature Man and Woman to be held in ſubjection to the Creator? and did not the Saints ſit at his Feet, to hear the word at his Month, which is the thing that is ſo deſirable now, and the mat<g ref="char:EOLhyphen"/>ter contended for to receive the Word at his Mouth, which the Holy men of old well knew, and more deſired it, then their neceſſary food, yea it was ſweeter to them then the Honey, or the Honey Comb.</p>
+            <p>But the Flood is come, and what ſhall I ſay, even to be ſtill.</p>
+            <p>This then is my exhortation unto all, in the fear of God, and in Love, and as moved thereunto by his bleſſed Spirit, every one as Members one of another, to anſwer his place in the body (<hi>The Wiſe mans eye is in his head,</hi> and ſees what he requires, and to anſwer his re<g ref="char:EOLhyphen"/>quirings, or what may be laid before one another in meekneſſe, and in Love, as they feel the thing in their own Life to anſwer it) that there may be no drawings back, for ſuch the Lords Soul hath no pleaſure in.</p>
+            <p>And this which I have here in the beginning written, is what in time paſt hath riſen in me from the moveings and openings of the ſpirit of the Lord, which I now think meet to commacate. When I was in deep diſtreſs and ſorrow of ſpirit concerning the ark of our God and the cauſe of his truth, and ſomething concerning the condition of others, (when I ſet my face toward them) to both which ſomthing was anſwered; Therefore let none proceed in a forward zeal or a haſty raſh Spirit to Judge, leſt the Lord rebuke it, nor to be high-minded, but fear.</p>
+            <p>Remember <hi>
+                  <g ref="char:V">Ʋ</g>zza</hi> who put forth his hand, as he thought to ſtay the Ark, and yet was ſmitten.</p>
+            <p>And with whom was he grieved, was it not with them whoſe Car<g ref="char:EOLhyphen"/>caſſes fell in the Wilderneſſe? who ſtrived againſt his good Spirit, temped, and provoked him, and ſo fell ſhort of the promiſed Land? and that is not a Serving or worſhiping (for God is a Spirit and will be worſhiped in Spirit and truth) to reſiſt and grieve his Spirit, or provoke it, or is not he to have the ſole or abſolute Authority, and Pre<g ref="char:EOLhyphen"/>heminency over his own handy-worke; and is not every Creature to bow unto him? if he ſay unto him go, is not he to do it; and if he
+<pb n="13" facs="tcp:55324:7" rendition="simple:additions"/>ſay <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th the ſame come, is not he to obey, and ſo to be Subjected to his <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>enly will in all things, whether it be to go, or come, or ſtand <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; therefore good it will be for all the tender-hearted to eye the <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ings of the Lords good ſpirit in all things, to look over all forms, or <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appeareances, though ſometimes the ſpirit of the Lord <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have appeared in them, yet he is not limited unto that; therefore <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is not to be ſticked in, but to be preſſing forward, looking unto <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that was in the beginning, Chriſt the <hi>Alpha</hi> and <hi>Omega,</hi> the be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing and the end, whoſe name is called the word of God, which <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> before Shadows, Formes, or Viſible things were; So that if the Creature be not by him led into thoſe, let him let them alone as things below the life, that there may not be a ſtriveing in any, or provoking, for that is not a ſerving, but the Will ſubjected unto his pure, and holy, undefiled Spirit, whereby man may come into life no live in God, and not to have a life in any outward Viſible thing, which may paſs away, and periſh with the uſeing; and ſo the outward thing is to be uſed as if men uſed it not, and ſo will the heart be kept ſingle and diſ-intangled to Follow the Lamb whereſoever he <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>deth, which all the Lambs of Chriſt are needfully to mind, where<g ref="char:EOLhyphen"/>in ſtands their ſafty in this day.</p>
+         </div>
+         <div type="part">
+            <head>My Dear Friends, ſomthing hath been upon me to write unto you, which in the Spirit of Love let me be felt and received.</head>
+            <p>FOllow Peace with all Men, and have peace one with another; This hath been the Language of the Spirit of Truth, in dayes paſt, and he that hath an ear to hear, let him hear what the Spirit <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith unto the Churches; And this is the Language of the ſame Spirit this day unto you his People, to follow peace with all men, and Ho<g ref="char:EOLhyphen"/>lineſs, <hi>without which no man can ſee the Lord.</hi> Mark, without Peace be followed with all men, no man can ſee God; Leaſt there ſpring up any Root of bitterneſſe, and trouble you, and many thereby be defiled; and ſo they were to follow peace, the Bleſſed Thing where<g ref="char:EOLhyphen"/>unto they were called, and God is the Author of Peace, and not of Confuſion, therefore the Lord keep us all out of that that runs into Strife, for that goes into Confuſion; I have found ſomething in ſeve<g ref="char:EOLhyphen"/>rall putting it ſelf forth unto peace; and I ſay, Bleſſed are the peace<g ref="char:EOLhyphen"/>makers, for they ſhall be called the Children of God: And doubt<g ref="char:EOLhyphen"/>leſſe
+<pb n="14" facs="tcp:55324:8" rendition="simple:additions"/>as we abide in the Power, we abide in the Peace, for it is the Goſ<g ref="char:EOLhyphen"/>pel of Peace, and if we abide in the Covenant, we abide in the Peace, for tis the Covenant of Peace; and Chriſt ſaith, <hi>In me ye <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have Peace;</hi> but out of him in the Worlds Spirit, is the Tribulation, and the Sorrow; and our fellowſhip is in the Peace, and in the Power, the Goſpel-Fellowſhip, where the Saints were Follows toge<g ref="char:EOLhyphen"/>ther, and of the Houſhold of Faith, all walking in the ſame Spirit; and here was not any Maſtering, or Lording it over one another in the Goſpel-fellowſhip; where they were as a Family; So did they Propheſie one by one, and as the Lord did give forth his Gifts, ſo did they Miniſter every one according to what they had received; and being come to the Living Thing in themſelves (the Principle of Life) in that they did go forth, and one had a Doctrine, another a Pſalm, another an Exhortation, another a Revelation, <hi>&amp;c.</hi> 1 <hi>Cor.</hi> 14. And this was done with Acceptation, and mutual Conſolation in the Church, for the edifying of the whole, where every member was kept in its place in the body, and all members one of another; and ſo in the Goſpel of Chriſt, which is the Power of God, as the Saints had, ſo they have their Fellowſhip together, the Saints or Sanctified ones, Holy Men and Women, in the Power of God; and this is ac<g ref="char:EOLhyphen"/>cording to the true Church Order, wherein all might ſpeak one by one, and having all Fellowſhip in the body, Living in the Power which cruſheth down the Enmity, wherein all comes to be Learned, Conſolated, and Edified; this is that Fellowſhip that ſtands over the World, in which the Lambs, and Tender-hearted ones can skip and rejoyce, wherein they feel ſtrength in the Power, which is the Goſpel Fellowſhip, and keeps Lively.</p>
+            <p>And Youth being turned from the Darkneſs to the Light, and trayned up in the Living Way, and kept to the Life, Praiſes will be felt to ariſe in Families, and Places, through which the Praiſe is given to the Lord, and then all Fooliſh Laughter, Idle Talking, and Jeſting will be avoided, as the Pure, Innocent Life comes up, and the Power is harkened unto, wherein is the Fellowſhip, and in this will you have Fellowſhip one with another, and every one be refreſhed, and praiſe the Lord.</p>
+            <p>So Young Men and Maids, Old Men and Children, all Praiſe the Name of the Lord, for his Name alone is Excellent in all the Earth the Living it is that praiſeth him, and till this be come unto, all i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not well; that whether we eat, or drink, or whatſoever we do, al<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be done to the Praiſe and Glory of his Name; then all muſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:55324:8" rendition="simple:additions"/>done from the Life, and in it, (and this one thing here mentioned, I <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not omit, for the Childrens ſake, that all might become the People of his Praiſe.)</p>
+            <p>And this further as to your ſelves, tending to the Peace and Fur<g ref="char:EOLhyphen"/>therance therein, I have to ſay; In the Worſhip, or Service unto God, mind not Jeſtures, Poſtures, or Outward things, but the Spirit in which it is to be performed, that all may be Spiritual, if it be in Humility, Contriteneſſe of Spirit, and Brokenneſſe of heart, that ſacrifice God will not deſpiſe; and he will keep the Creature low, that he him ſelf may be exalted; and the Saints exhorted to paſſe the time of their Sojourning here in fear, and to work out their Salva<g ref="char:EOLhyphen"/>tion with Fear and Trembling; and this is in my heart to mind you, that you following the thing that makes for Peace, and whereby to edifie one another, you will flouriſh, and grow green, and the Re<g ref="char:EOLhyphen"/>nown will go forth as a wiſe and an underſtanding People, that ſtand in the Councel of God, and the God of Peace will dwell among you, and bruiſe Sathan under your feet; — And ſo to live in the True Unity of the Spirit, and not to quench it; nor grieve it; For if the Spirit be quenched, then the Unity is quenched, for in that it ſtands, for the bond of Peace is ſtrengthend, the more the Spirit, and Power is united to, wherein is the Fellowſhip, which I am not aſha<g ref="char:EOLhyphen"/>med of, the Goſpel of Chriſt, which is the Power of God unto Sal<g ref="char:EOLhyphen"/>vation, out of which is not ſafety.</p>
+            <p>And this Fellowſhip, and Unity in the Spirit, and Power of the Lord is Strong and Unalterable, and unleſſe there be a going from the Power, and Spirit, it cannot be broken, for as not any outward thing can or doth make it, ſo neither can it break it, which keeps down the mans part in all, or that that would exalt ſelf, that the Lord alone may be exalted; And it is a nearer Unity the Lord is bringing his People into, then any outward thing can break it.</p>
+            <closer>
+               <signed>W. S.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>
+               <hi>Let this Paſſe through all Friends of God, Written by his Servant, Priſoner in</hi> Rome.</head>
+            <p>DEar Siſters and Brethren, and Holy Building of God, we muſt be like <hi>Lambs</hi> Suffering all things, that we may be like our Father the Shepheard; For God Almighty ſuffereth all things, and
+<pb n="16" facs="tcp:55324:9" rendition="simple:additions"/>eaſeth his burthened and grieved Spirit of his Adverſaries, when he will, I well know it; And therefore as Dear Children take occaſion to ſpeak to each other in the pure bowels, and to cheriſh one another, that you may be prepared and trimmed with the mighty ſtrength, to bear every Tryal, and comfort your hearts in the Lord who will do great things, which your patient hearts ſhall ſee in his time; There<g ref="char:EOLhyphen"/>fore wait, and pray, and believe, and go to one anothers Houſes, and viſit one another, and eſpecially the Priſoners, and the Afflicted, and the Tribulated, that you may be Conſolation to them in the Name of the Lord; and kiſſe one another in the Immortal, and ſo be joyned as one in the Wedlock of the <hi>Lamb;</hi> For ſo am I exceeding, dearly bound to you all, and in the ſimplicity dwell, which ſaith <hi>yea,</hi> and it is <hi>yea,</hi> and <hi>nay,</hi> and it is <hi>nay,</hi> and <hi>thee,</hi> and <hi>thou,</hi> for the Croſſe is there.</p>
+            <p>And all muſt come to the firſt day, and ſecond day, and third day, and to all the ſix dayes, <hi>for the Kingdome of Heaven is in you;</hi> which ſtands not in words but in <hi>Power,</hi> which is the ſeventh day of Reſt, to which all muſt come; And ſo in the truth, you ſtand in the <hi>Power</hi> of God, which brings forth all your words in Subjection to the <hi>Power,</hi> and thus they are ſpoken <hi>in the Kingdome,</hi> in the Pureneſs and Plain-heartedneſſe; And here they are not a tradition but the fruits of the <hi>Power,</hi> and ſo are all the actions of the ſame nature by which God is Gloryfied in you, and the whole world confound<g ref="char:EOLhyphen"/>ed before you. And as concerning <hi>Tythes,</hi> all Friends muſt ſtand in the <hi>Power</hi> of God to Saluation, which is the <hi>Croſs</hi> of <hi>Chriſt,</hi> for Chriſt is the everlaſting High-prieſt of freedom, from the firſt Prieſt-hood, and all the tythes and carnall Ordinances which ap<g ref="char:EOLhyphen"/>pertained thereunto, who by the Purchace of his Blood hath he ran<g ref="char:EOLhyphen"/>ſomed you from them all; No man therfore ought, for the love of the things of the world, by paying Tythes to deny the Blood of Chriſt, and the Lord which bought them, leaſt in ſo doing they draw fire on their own heads. And as touching the obſervation of dayes, all muſt come into him which Created all dayes, and then they are over them all, for God is the Lord of the whole Creation, and we know that God ceaſeth not his labour every day, who dwells in his everlaſting Sabbath of reſt, whoſe Soul is grieved with ſuch as are in the obſervation of days, which know not him that created them, for God feedeth the Sheep, and the Wormes, and the Fiſhes, and the Fowls, and Children, and men, and all quick things in the Wombe, and maketh the Vines, and the plants, and Corn, and Flowers grow without reſpect of dayes, and maketh the
+<pb n="17" facs="tcp:55324:9" rendition="simple:additions"/>Rivers run, and the Seas to Ebb and Flow, and the Rain falls, and the Sun ſhines, and the Winds blow, and it Lightens, and Thunders, and Hailes, and the Sun, and the Moon, and the Stars go their courſe without reſpect of dayes; And we know that all theſe are the continual works of God, who alſo cauſeth the Bryers and Thorns to be plucked up, and the unfruitful and dry Trees to be cut down, and maketh them rot as they ſtand in the ground, and killeth the Crea<g ref="char:EOLhyphen"/>tures in the Sea, and in the Earth by death, and ſlays men by Sword, Fire, Plagues, Famine, and by Death without reſpect of dayes; and ſtill God is in his Reſt, and we in him do like him, Labour all dayes without reſpect of dayes, which is the true Godlineſſe to be like God, and are in Gods Sanctified Sabbath Day of Everlaſting Reſt, and the whole World ſees us not but is Confounded.</p>
+            <p>And in Order to Prayer, many of the World take off their <hi>Hats,</hi> and pray ſtanding in the Synagogues with their heads covered, and reſt in that Service; But Chriſt kneeled down, and ſo did the Apo<g ref="char:EOLhyphen"/>ſtles, and <hi>Daniel,</hi> beſides others of the Holy men of God fell down with their faces to the ground, &amp; prayed with their Heads uncovered; and we read not that in a Cuſtom they took off their <hi>Hats</hi> or <hi>Caps;</hi> Stand you therefore in the Power of God to Salvation, which is the Croſſe of Chriſt to all that ſtand in the Cuſtoms and Traditions; and ask the World what is the difference between the fleſhly <hi>Head</hi> of a Carnal Man, and a Carnal Woman, and which of them two God doth moſt reſpect? That one ſtands in ſuch an exerciſe with <hi>Hoods</hi> and fine <hi>Dreſſings,</hi> or <hi>Hat</hi> on, and the other with <hi>Hat</hi> or <hi>Cap</hi> of; And the Anſwer of the Seed in them will confound them; and hereby God Almighty is glorified in you; And therefore as you ſtand over the Worlds <hi>Head,</hi> in like manner ſtand over all their <hi>Hats</hi> and <hi>Caps</hi> alſo; And if any Friends are moved of the Lord God to Pray in the Congre<g ref="char:EOLhyphen"/>gation of God, falling down with their faces to the ground, without taking off the <hi>Hat</hi> or the <hi>Shooes</hi> let them ſo do in the Name, and Fear of the Lord; and if the World be contentious, ask them, why take you off your <hi>Hats</hi> without precept, and not your <hi>Shooes,</hi> ſeeing it was a precept which God Commanded <hi>Moſes,</hi> ſaying, <hi>Take off thy Shooes from off thy Feet,</hi> and the Seed will Anſwer you in ſecret, and ſo God is Glorified, and the World Confounded.</p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="18" facs="tcp:55324:10" rendition="simple:additions"/>
+            <p>THe firſt time that any thing hath been touched concerning the Ceremony of taking off the <hi>Hat,</hi> was when <hi>J. P.</hi> was Priſoner in <hi>ROME,</hi> in the Solid and weighty Seed of the Kingdom, not in a Light or Contentious Spirit, as may be ſeen by the foregoing Paper of His; And though ſeveral hath ſeen and felt the thing as it was in themſelves, yet it may be hath not publickly declared it, or it might not be laid upon them to Publiſh it; What, is it therefore to be diſpi<g ref="char:EOLhyphen"/>ſed becauſe it came from a Suffering Servant of the lord? Though in this Caſe I deſire to know no man after the fleſh; For if I ſee and feel it be of the Lord it is ſufficient, for Chriſt is my <hi>Alpha</hi> and <hi>Omega,</hi> he who is the <hi>Beginning</hi> and the <hi>End,</hi> the Firſt and the Laſt; And who is it ſhall lay any thing to the Charge of Gods Elect, <hi>It is God that Juſtifieth, who ſhall Condemn?</hi> For when I ſaw it, or it came to my hand to write it, I had this Teſtimony for it in Spirit, <hi>That it was in the Dominion, and Authority of the Lords own Spirit.</hi>
+            </p>
+            <p>And this I have to ſay farther, if any thing be revealed to another, is not the firſt to <hi>hold his Peace; For the Spirit of the Prophets is to be ſubject to the Prophets, and God is not the Author of Contention and Strife but of Peace, as in all the Churches of the Saints;</hi> And this is according to the True Church Order, <hi>Subjection to the Spirit of the Lord in one another, and the Propheſying one by one, that all may be Comforted, and all may be Edified;</hi> Therefore have Salt in your ſelves, and Savour, and Love, whereby you may Edifie one another, for that which hurteth, or deſtroyeth, is out of Gods Holy Mountain.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>Theſe Books may be Enquired for of <hi>Thomas Simmons.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:55324:10" rendition="simple:additions"/>
+            <lg>
+               <l>
+                  <hi>OH Day of Tryal, come thou art,</hi>
+               </l>
+               <l>
+                  <hi>For to Diſcover every heart,</hi>
+               </l>
+               <l>
+                  <hi>And manifeſt things as they be,</hi>
+               </l>
+               <l>
+                  <hi>That all the Innocent may ſee,</hi>
+               </l>
+               <l>
+                  <hi>The Man that doth the Life poſſeſſe,</hi>
+               </l>
+               <l>
+                  <hi>From him that onely it Profeſſe;</hi>
+               </l>
+               <l>
+                  <hi>Yea thou wilt ſhew them who they are,</hi>
+               </l>
+               <l>
+                  <hi>That Soar'd up above the Spheare,</hi>
+               </l>
+               <l>
+                  <hi>In words, in Carriage, or in Action,</hi>
+               </l>
+               <l>
+                  <hi>Which gave the Seed no Satisfaction;</hi>
+               </l>
+               <l>
+                  <hi>And ſuch before, that thou art over,</hi>
+               </l>
+               <l>
+                  <hi>Their Nakedneſſe thou wilt Diſcover;</hi>
+               </l>
+               <l>
+                  <hi>Whereby ſome that deceiv'd have been,</hi>
+               </l>
+               <l>
+                  <hi>And catcht by them as in a Gin,</hi>
+               </l>
+               <l>
+                  <hi>Will be Aſhamed, and ſit down,</hi>
+               </l>
+               <l>
+                  <hi>And wait within to feel their own</hi>
+               </l>
+               <l>
+                  <hi>Eternall Gift, to guide again,</hi>
+               </l>
+               <l>
+                  <hi>And Life to breath upon the ſlain;</hi>
+               </l>
+               <l>
+                  <hi>And as theſe things they come to feel,</hi>
+               </l>
+               <l>
+                  <hi>It will afreſh revive their Zeal,</hi>
+               </l>
+               <l>
+                  <hi>To ſtand againſt every thing,</hi>
+               </l>
+               <l>
+                  <hi>That would to God diſhonour bring;</hi>
+               </l>
+               <l>
+                  <hi>And patiently the Croſſe to bear,</hi>
+               </l>
+               <l>
+                  <hi>Whoever flee it, they will not dare,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe they'l ſee it would offend,</hi>
+               </l>
+               <l>
+                  <hi>And bring them ſorrow in the End;</hi>
+               </l>
+               <l>
+                  <hi>The Living God who is ſo juſt,</hi>
+               </l>
+               <l>
+                  <hi>That all that will him follow, muſt</hi>
+               </l>
+               <l>
+                  <hi>Deny themſelves in every thing,</hi>
+               </l>
+               <l>
+                  <hi>And wait on him who is their King.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>GEORGE FOX <hi>The Younger.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
